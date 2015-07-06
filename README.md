@@ -2,7 +2,7 @@
 Http full status codes representation
 
 ## System requirements
-- PHP 5.2.x >
+- PHP 5.3.x >
 
 ## Install
 First update your dependencies through composer. Add to your composer.json:
