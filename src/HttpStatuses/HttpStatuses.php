@@ -22,12 +22,10 @@ class HttpStatuses
      */
     public function getStatus($code) {
 
-        $filename = getcwd().'../../data/'.$code[0].'.json';
-
+        $filename = __DIR__.'/../../data/'.substr($code, 0,1).'.json';
         if(file_exists($filename)) {
             return json_decode(file_get_contents($filename), true)[$code];
         }
-
         return [];
     }
 }
