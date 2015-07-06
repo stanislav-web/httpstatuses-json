@@ -12,13 +12,6 @@
         "issues": "https://github.com/stanislav-web/httpstatuses-json/issues"
     },
     "minimum-stability": "dev",
-    "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/stanislav-web/httpstatuses-json"
-        }
-    ],
     "homepage" : "https://github.com/stanislav-web/httpstatuses-json",
     "license" : "MIT",
     "authors" : [{
