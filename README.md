@@ -1,6 +1,8 @@
 # Http Statuses & Codes json
 Http full status codes representation
 
+[![Latest Stable Version](https://poser.pugx.org/stanislav-web/httpstatuses-json/v/stable)](https://packagist.org/packages/stanislav-web/httpstatuses-json) [![Total Downloads](https://poser.pugx.org/stanislav-web/httpstatuses-json/downloads)](https://packagist.org/packages/stanislav-web/httpstatuses-json) [![License](https://poser.pugx.org/stanislav-web/httpstatuses-json/license)](https://packagist.org/packages/stanislav-web/httpstatuses-json)
+
 ## System requirements
 - PHP 5.3.x >
 
